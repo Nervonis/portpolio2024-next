@@ -35,69 +35,70 @@ export const headerNav = [
 ];
 
 export const introText = {
-    title: "port developer",
+    title: "안병언.RESUME!!",
     desc: ["talent is", "found at the end of the", "effort"],
     img: about
 }
 
 export const skillText = [
     {
-        title: "꿈을 설계하고 디자인하다.",
-        desc: "나는 공간을 만드는 것을 좋아한다. 어려을 때부터 나만의 공간을 만드는 것을 좋아했고 나만의 다락방을 좋아했다. 단 한 사람이라도 내가 만든 공간 속에서 영감을 받거나 마음이 움직였으면 좋겠다. 나만의 공간을 마음것 만들 수 있다는 건 코딩에 엄청난 매력인거 같다. 그 한구석에 나만의 꿈을 설계하고, 개발을 하며 앞으로도 살고 싶다."
+        title: "만드는 자",
+        desc: "어릴 때부터 장난감은 로봇을 좋아했습니다. 조금씩 크면서 로봇에 관한 관심은 과학상자와 같은 상상하는 무언가를 만들 수 있는 것으로, 또다시 컴퓨터로 옮겨갔습니다. 그렇게 커가면서 대학에 진학하게 되었을 때는, 컴퓨터로 무언가를 만들 수 있는 학과를 자연스럽게 선택하게 되었습니다. 그렇게 진학한 대학에서 배우는 프로그래밍 수업은 너무 재미있었습니다. 제가 짠 코드가 실제로 구동되고, 그에 따른 결괏값이 나오는 것이 너무 재미있었고, 제가 쓰는 다양한 프로그램들, 카카오톡과 같은 채팅 프로그램이나 테트리스 같은 간단한 게임들을 카피해 가며 개발한 것들이 정상적으로 구동될 때 가장 큰 성취감을 얻었습니다. 이는 제가 적극적으로 수많은 경진대회와 공모전, 학회, 삼성소프트웨어멤버십 등에 도전할 수 있는 원동력이 되었고, 좋은 결과까지 함께 얻게 되어 다양한 경험을 하게 된 근본이 되었습니다. 그런 제게 조금이나마 부족했다고 느꼈던 것은 인내심이었습니다. 수많은 설계문서와 오류 등과 함께 나아가야 하는 개발자로서 인내심이란 선택이 아닌 필수 덕목이라고 생각했고, 연구회 활동을 하며 오전 10시부터 오후 10시까지 학교의 연구실에서 개발 및 공부하는 텐텐 과, 오전 7시부터 오후 11시까지 하는 세븐일레븐이란 경험을 통해 보완할 수 있었습니다. 이는 제 장점이자 자랑이며, 계속 발전하고 변화할 수 있는 성향을 지니고, 지속적으로 새로운 환경에 빠르게 적응하고 활용할 수 있는 능력의 기반이 되었습니다."
     },
     {
-        title: "열심히 할수록 기회는 따른다.",
-        desc: "운이 좋은 사람은 없다. 단지 운을 만들 뿐이다. 운을 만들기 위해서는 내가 좋아하는 일이나 내가 하고 싶은 일에 몰두하면 된다. 몰두 하다보면 길이 보이고 방향이 보이게 된다. 운이란 고된 노동과 노력을 통해 스스로 만들어 내는 것이다."
+        title: "노력하는 자",
+        desc: "살면서, 그리고 개발을 진행하면서 수많은 실패와 성공을 겪었지만 가장 크게 생각나는 것은 Visual Basic에 기반한 프로젝트의 개발입니다. 입사한지 얼마 안됐을 때, 갑작스럽게 담당하게 된 프로젝트는 Visual Basic기반의 Terminal Operating System의 개발이었습니다. 학부생 시절에도, 본적도 활용한 적도 없었던 Visual Basic이란 언어는 제게 너무도 당황스러웠습니다. 더욱이 개발기간이 짧아 언어에 대해 파악할 시간이 없었으며, 곧바로 개발에 착수해야만 했었습니다. 구버전의 개발툴은 제 개발환경인 윈도우10에서 구동조차 되지 않았고, 가상 환경에서 돌린 Visual Basic은 수많은 오류와 버그 덩어리였습니다. 구동시킨 구버전의 개발툴은 제가 쓰던 개발툴과는 달리 상세한 디버깅이 불가능했고, 대부분 논리적으로 이상함을 발견하지 못하면, 무슨 오류가 발생했는지조차 알 수 없었습니다. 그러나 차근차근, 하나하나씩 인내와 끈기를 갖고 문제를 해결해 나갔으며, 이미 개발되어 있는 수많은 코드들과 프로젝트를 참고해 기능을 구현해 나갔습니다. 결국 그 전까진 한 번도 알지 못했고, 경험하지 못했던 Visual Basic 기반의 프로젝트는 예상 일정보다 빨리 끝낼 수 있었고, 이는 제 긍정적인 성격과 포기하지 않았던 끈기, 다시 생각해 볼 수 있었던 인내와 마지막으로 어떠한 환경이든 빠르게 적응할 수 있었던 적응력과, 그 적응력에 기반한 활용 능력 덕분이었습니다. 이 경험을 통해 어떠한 복잡해 보이는 문제라도 해결할 수 있다는 자신감을 얻었고, 복잡한 문제를 순서를 매겨 하나씩 차근차근 해결하는 습관을 만들 수 있었습니다."
     },
     {
-        title: "나에게 정직하다.",
-        desc: "정직은 다른 사람보다 나에게 큰 의미를 부여해야 한다. 자신이 정직하지 않으면 진정으로 원하는 일을 열정적으로 밀고 나갈 수 없다. 마음에서 우러나오는 일을 해야 정직해지며 삶을 더 즐길 줄 알게 된다."
+        title: "꿈꾸는 자",
+        desc: `19살, 가장 관심이 많았던 컴퓨터공학부에 지원하게 되어 군대를 다녀온 후 '제대로 해보자' 라는 각오로 여러 공모전과 산학협력기술개발 등 예전에는 생각하지도 못했던 여러 프로젝트에 참가하면서 경험을 쌓았습니다. 이를 통해 내가 하고 싶은 것에 대해 방향을 잡았고, 그를 이루기 위해 노력하기 시작했습니다. 이번에 지원하게 된 것은, 이 직무에서 개발 / 유지보수하는 프로젝트들이 폭이 넓고 다양하기 때문입니다. 프로젝트와 공모전, 아이디어 경진대회, 창업 경진대회 등 수 많은 대회와 공모전에 참가하면서 경험한 것 보다, 훨씬 보람찬 것을 개발하고, 신규 서비스 개발 및 기존 서비스 개선에 참여할 때에 보람을 느낄 수 있을것이라 확신합니다. 제가 이루고 싶은 것들은 사용자가 조금 더 편리하게, 편하게 접근할 수 있는 인터페이스를 설계하고, 보완하여 제공하는 것입니다. 꾸준히 상승하는 매출 등을 고려하였을 때, 매우 발전 가능성이 높은 회사이고, 1년, 2년이 지나 10년 후에도 기대되는 기업이며, 이러한 기업에서 일하게 된다면 크나큰 자부심을 가질 수 있을 거라 생각합니다.
+        저는 아직도 아이폰4를 처음 쓰던 그때를 잊지 못합니다. 직관적인 인터페이스에 빠른 반응 속도, 정확한 터치 등 그 이전에는 느낄 수 없었던 휴대전화였습니다. 제가 아직도 아이폰을 쓰고 있는 것은 그런 이유가 아닐까 싶습니다. 반대로 가장 마음에 들지 않았던 것은 갤럭시S2 였습니다. 아이폰을 쓰던 경험 때문인지 반응, 속도 등 무엇하나 마음에 들지 않았고, 아직까지도 갤럭시를 사지 않는 이유가 되었습니다. 이처럼 저 또한 IT기술 사용자로써 선호하는 것과, 선호하지 않는 것이 나뉩니다. 제가 앞으로 함께 일을 하며 반드시 이루고 싶은 목표는 누군가가 선호하는 기술과 사용경험을 제공하는 것에 함께 하는 것이고, 앞으로 누군가 나라는 개발자를 IT업계 종사자로써 기억할 수 있도록 제가 개발한 것이 누군가에겐 특별함이 되는 것입니다.`
     }
 ]
 
 export const siteText = [
     {
-        text: ["make", "site compliant with", "webstandard"],
-        title: "비트를 이용한 사이트 제작",
+        text: ["부산외대 입시 챗봇 프로그램 개발 및 유지보수", "부산외대 사이트 개발 및 유지보수"],
+        title: "㈜스마트소셜 개발팀 연구원",
         code: "https://github.com/webstoryboy/port2023-vite",
         view: "https://port2023-vite.netlify.app",
         info: [
-            "site coding",
-            "production period : two days",
-            "use stack : HTML5/CSS3, CSS Variable, Vite",
+            "FULL STACK",
+            "month of work experience : 5 months",
+            "use stack : HTML5/CSS3, CSS Variable, javascript, python",
         ],
     },
     {
-        text: ["make", "site compliant with", "react.js"],
-        title: "리액트를 이용한 사이트 제작",
+        text: ["CATOS 프로그램의 각 사이트 별 현지화 및 개발 진행"],
+        title: "㈜토탈소프트뱅크 CATOS팀 연구원",
         code: "https://github.com/webstoryboy/port2023-react",
         view: "https://port2023-react.netlify.app",
         info: [
-            "site coding",
-            "production period : two days",
-            "use stack : HTML5/CSS3, CSS Variable, react",
+            "FULL STACK",
+            "month of work experience : 18 months",
+            "use stack : HTML5/CSS3, CSS Variable, javascript, C#, java, jsp, Visual Basic",
         ],
     },
     {
-        text: ["make", "site compliant with", "vue.js"],
-        title: "뷰를 이용한 사이트 제작",
+        text: ["그룹웨어 서비스 개발 및 유지보수"],
+        title: "㈜에스에프존 솔루션1팀 대리",
         code: "https://github.com/webstoryboy/port2023-vue",
         view: "https://port2023-vue.netlify.app",
         info: [
-            "site coding",
-            "production period : two days",
-            "use stack : HTML5/CSS3, Scss Variable, vue",
+            "FULL STACK",
+            "month of work experience : 14 months",
+            "use stack : HTML5/CSS3, CSS Variable, javascript",
         ],
     },
     {
-        text: ["make", "site compliant with", "next.js"],
-        title: "넥스트를 이용한 사이트 제작",
+        text: ["더포터존 이커머스 서비스 백엔드구축", "회원, 배송, 충전금, 상품, 알림, 발송 등의 도메인 담당", "MongoDB, MySQL, PostgreSQL 등의 데이터베이스 구축", "메일 서버, CI/CD, GitLab 등의 인프라 구축과 관리 담당"],
+        title: "㈜더존비앤에프 개발1셀 주임연구원",
         code: "https://github.com/webstoryboy/port2023-next",
         view: "https://port2023-next.netlify.app",
         info: [
-            "site coding",
-            "production period : two days",
-            "use stack : HTML5/CSS3, Scss Variable, next.js",
+            "BACK-END",
+            "month of work experience : 23 months",
+            "use stack : java, kotlin, docker, k8s, GitLab, msa, Redis, kafka, flux, reactive programming",
         ],
     },
 ];
@@ -105,104 +106,83 @@ export const siteText = [
 export const portText = [
     {
         num: "01",
-        title: "어워드에도 올라간 포트폴리오",
-        desc: "라마 디자인을 통해 자신의 스킬을 가장 멋지게 표현한 포트폴리오입니다. 가로 모드와 세로 모드는 매우 인상적이며 특히 리액트와 비트를 이용하여 제작한 것은 더욱 놀랍습니다. 이 사이트는 awwwards.com에도 인정받아 올라간 포트폴리오입니다. 확실히 그의 뛰어난 디자인 스킬과 기술력이 빛을 발휘한 결과물인 것 같습니다.",
+        title: "프로젝트 히스토리 관리 시스템",
+        desc: "학생들의 프로젝트와 성과를 공유할 수 있는 시스템입니다. 기존의 프로젝트를 참고하여 새로운 프로젝트를 만들기 용이하게 만들었고, 프로젝트 단위로 정보와 성과, 참고 프로젝트를 만들 수 확인할 수 있게 만들었습니다.",
         img: port01,
         code: "https://github.com/kimsangjunv1/-React-Portfolio",
         view: "https://portfoliosj-react.netlify.app",
-        name: "김상* 포트폴리오",
+        name: "프로젝트 히스토리 관리 시스템",
+        useStack: "HTML5, javascript, jQuery, Node.js, Express framework, MySQL"
     },
     {
         num: "02",
-        title: "빛나는 밤에 포트폴리오",
-        desc: "이 사이트는 정말 인상적인 포트폴리오입니다. 특히 스무스한 효과와 가로 모드드 높은 퀄리티를 자랑합니다. 디테일과 꼼꼼함이 넘치는 포트폴리오는 개발자의 뛰어난 능력을 엿볼 수 있습니다. GSAP와 React.js를 이용하여 사이트를 표현한 것은 기술적인 능력과 창의성을 강조하는데, 부족함이 없으며, 세심한 코딩과 디테일한 작업으로 그의 개발 감각과 능력이 빛을 발휘한 것 같습니다. ",
+        title: "응급의료정보 조회 시스템",
+        desc: "응급 상황시 빠른 대처를 위해 사전에 등록된 환자의 의료 정보를 조회할 수 있는 어플입니다. 환자의 지문을 통하여 신원을 확인하고 의료 정보를 스마트폰으로 확인합니다. Android 스마트폰을 사용하여 지문인식 기기와 블루투스로 연결하고, 해당 지문을 서버로 전송하여 지문에 맞는 환자의 의료정보를 조회합니다.",
         img: port02,
         code: "https://github.com/seolhee313/PORTFOLIO-REACT",
         view: "https://portfolio-313.web.app/",
-        name: "천설* 포트폴리오",
+        name: "응급의료정보 조회 시스템",
+        useStack: "java, android, Arduino, Servlet, MySQL"
     },
     {
         num: "03",
-        title: "열정이 넘치는 포트폴리오",
-        desc: "이 사이트는 정말 인상적인 포트폴리오입니다. 특히 스무스한 효과와 가로 모드드 높은 퀄리티를 자랑합니다. 디테일과 꼼꼼함이 넘치는 포트폴리오는 개발자의 뛰어난 능력을 엿볼 수 있습니다. GSAP와 React.js를 이용하여 사이트를 표현한 것은 기술적인 능력과 창의성을 강조하는데, 부족함이 없으며, 세심한 코딩과 디테일한 작업으로 그의 개발 감각과 능력이 빛을 발휘한 것 같습니다. ",
+        title: "Amazon Rekognition을 이용한 사용자 확인 시스템",
+        desc: "사용자의 변화하는 모습을 학습, 이를 통해 높은 신뢰성과 정확성을 제공합니다. 실시간으로 분석이 가능하고, 카쉐어링 시스템에서 일어나는 도용 문제 등을 해결하기 위한 방법으로 개발하였습니다.",
         img: port03,
         code: "https://github.com/seolhee313/PORTFOLIO-REACT",
         view: "https://portfolio-313.web.app/",
-        name: "천설* 포트폴리오",
+        name: "Amazon Rekognition을 이용한 사용자 확인 시스템",
+        useStack: "Java, JSP, Servlet, MongoDB"
     },
     {
         num: "04",
-        title: "모던한 포트폴리오",
-        desc: "블랙 컨셉과 애니메이션이 돋보이는 포트폴리오 사이트입니다. GSAP를 통한 애니메이션과 NEXT.js를 통해 제작된 포트폴리오입니다. pin 애니메이션을 통한 포폴 작업물의 표현 능력이 돋보이는 사이트입니다.",
+        title: "FOTA기술을 적용한 TR-069기반의 스마트홈 디바이스 관리 시스템",
+        desc: "홈 오토메이션 시스템에서 사용되는 디바이스의 통합 관리 시스템입니다. 디바이스별 펌웨어 관리가 가능하도록 개발하였고, Wemo와 Hue 등의 시중에 판매되고 있는 IoT 제품군들의 관리를 위하여 개발하였습니다.",
         img: port04,
         code: "https://github.com/dlgnsrb227/portfolio-next",
         view: "https://hoongportfolio-next.netlify.app/",
-        name: "이훈* 포트폴리오",
+        name: "FOTA기술을 적용한 TR-069기반의 스마트홈 디바이스 관리 시스템",
+        useStack: "Spring Frameworks, Java, JSP, Servlet, Raspberry Pi, Node.js, Android"
     },
     {
         num: "05",
-        title: "가로모드의 정석 포트폴리오",
-        desc: "이 포트폴리오는 가로모드를 통해 눈에 띄는 애니메이션 효과를 가진 멋진 작품들이 펼쳐집니다. 세션 간의 부드러운 전환과 흥미로운 움직임이 사용자들에게 색다른 경험을 선사합니다. 사이트에는 탁월한 디자인과 창의적인 애니메이션들이 어우러져, 사용자들에게 인상적인 시각적인 효과를 줍니다. 애니메이션은 적절히 사용되어 사이트를 더욱 생동감 있게 만들어주는 포트폴리오입니다.",
+        title: "Scala기반 보드게임 “Bluff”",
+        desc: "보드게임 Bluff의 온리인화를 목표로 개발하였습니다. 채팅 기능 등을 추가로 구현하여 실시간 대화가 가능하도록 개발되었습니다.",
         img: port05,
         code: "/",
         view: "https://junseungpark.github.io/portfolio/index3.html",
-        name: "박준* 포트폴리오",
+        name: "Scala기반 보드게임 “Bluff”",
+        useStack: "Scala, Play frameworks, Swing"
     },
     {
         num: "06",
-        title: "화려함의 정석 포트폴리오",
-        desc: "화려하고 세련된 디자인과 다채로운 색상이 사용된 포트폴리오는 사용자를 홀릴 듯한 시각적인 매력을 지니고 있습니다. 포트폴리오 내의 각 작품들은 디테일한 디자인과 탁월한 시각적 표현력을 갖추고 있어, 주인공의 뛰어난 예술적 감각을 느낄 수 있습니다. 화려한 애니메이션 효과와 부드러운 전환은 사이트를 더욱 생동감 있게 만들어주며, 사용자들에게 색다른 경험을 선사합니다.",
+        title: "재난문자기반 응급의료정보조회시스템",
+        desc: "재난문자의 데이터를 분석해 지인 관리와 안전확인 서비스 제공 등을 목표로 개발하였습니다. 비상연락망 관리와 안전관리 시설 위치정보 제공, 재난 발생시 최단거리 대피소 위치 및 경로 제공 등의 기능을 개발하였습니다.",
         img: port06,
         code: "/",
         view: "https://webstoryboy.github.io/port2023/portfolio-student/DavidYang/index.html",
-        name: "포트폴리오",
+        name: "재난문자기반 응급의료정보조회시스템",
+        useStack: "공공데이터포털API, Java, Android, Firebase"
     },
     {
         num: "07",
-        title: "패럴랙스 정석 포트폴리오",
-        desc: "마치 예술작품을 감상하는 듯한 환상적인 경험을 선사하는 포트폴리오입니다. 패럴랙스 스크롤링을 활용하여 구성된 사이트는 사용자들에게 독특하고 멋진 시각적 효과를 제공합니다. 배경과 움직이는 요소들이 조화롭게 어우러져, 사이트 전반에 걸쳐 깊이와 입체감을 느낄 수 있습니다. 스크롤에 따라 움직이는 요소들은 마치 세계를 탐험하는 듯한 느낌을 주며, 사용자들을 끌어들이는 매력적인 요소로 작용합니다.",
+        title: "더포터존 이커머스 서비스 개발",
+        desc: "https://theporterzone.com/mro",
         img: port07,
         code: "/",
-        view: "https://webstoryboy.github.io/port2023/portfolio-student/TaeyongLee/index.html",
-        name: "포트폴리오",
-    },
-    {
-        num: "08",
-        title: "트랜지션 포트폴리오",
-        desc: "화면 전환과 요소들의 흐름이 순조롭고 매끄러운 작품들로 가득한 포트폴리오 사이트입니다. 페이지 간의 트랜지션은 마치 이야기를 풀어내는 듯한 흥미진진한 경험을 선사합니다. 트랜지션 효과의 적절한 활용은 작품들을 보다 동적이고 생동감 있게 만들어줍니다. 각 페이지의 이동이 자연스럽고 사용자들이 원활하게 사이트를 탐색할 수 있도록 배려된 구성은 개발자의 디자인 능력을 잘 보여주는 특징입니다.",
-        img: port08,
-        code: "/",
-        view: "https://webstoryboy.github.io/port2023/portfolio-student/HyunroKim/index.html",
-        name: "포트폴리오",
-    },
-    {
-        num: "09",
-        title: "스크롤의 정석 포트폴리오",
-        desc: "스크롤링을 활용하여 훌륭한 사용자 경험을 선사하는 포트폴리오 사이트입니다. 스크롤을 내리면서 작품들이 순차적으로 나타나고 효과적으로 전환되는 것은 마치 예술적인 이야기를 읽어나가는 듯한 느낌을 주며 사용자를 매료시킵니다. 스크롤의 움직임을 통해 작품들이 서서히 드러나고, 각 페이지 간의 전환은 자연스럽고 부드럽습니다. 이러한 트랜지션과 애니메이션들이 작품들의 내용과 테마를 더욱 강조해줍니다.",
-        img: port09,
-        code: "/",
-        view: "https://webstoryboy.github.io/port2023/portfolio-student/ChoJaeHyung/index.html",
-        name: "포트폴리오",
-    },
-    {
-        num: "10",
-        title: "모던함의 정석 포트폴리오",
-        desc: "현대적이고 세련된 디자인으로 가득한 포트폴리오 사이트입니다. 모던한 느낌과 세심한 디테일이 조화를 이루며, 사용자에게 신선하고 품격 있는 경험을 제공합니다. 사이트의 디자인은 깔끔하고 단정하면서도 특유의 감성과 풍부한 표현력이 느껴집니다. 간결한 레이아웃과 모던한 색상 선택은 주인공의 디자인 감각을 잘 보여주는 특징입니다.",
-        img: port10,
-        code: "/",
-        view: "https://webstoryboy.github.io/port2023/portfolio-student/JooHyeji/index.html",
-        name: "포트폴리오",
+        view: "https://theporterzone.com/mro",
+        name: "더포터존 이커머스 서비스 개발",
     },
 ];
 
 export const contactText = [
     {
         link: "https://open.kakao.com/o/gM7YLzwf",
-        title: "KAKAO : webstupids",
+        title: "KAKAO : lockon2200",
     },
     {
-        link: "mailto:webstoryboy@naver.com",
-        title: "mail : webstoryboy@naver.com",
+        link: "mailto: lockon2200@naver.com",
+        title: "mail : lockon2200@naver.com",
     },
 ];
 

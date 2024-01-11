@@ -22,7 +22,8 @@
         white-space: nowrap;
         text-indent: -0.5vw;
         letter-spacing: -0.3vw;
-
+        padding: 20px;
+        
         @media (max-width: 320px){ 
             display: none;
         }

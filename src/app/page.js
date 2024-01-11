@@ -1,7 +1,6 @@
 "use client";
 import React, { useEffect } from "react";
 import Header from "@/components/Header";
-import Footer from "@/components/Footer";
 import Intro from "@/components/Intro";
 import Skill from "@/components/Skill";
 import Site from "@/components/Site";
@@ -28,7 +27,6 @@ export default function Home() {
                 <Port />
                 <Contact />
             </main>
-            <Footer />
         </>
     );
 }

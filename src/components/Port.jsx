@@ -1,9 +1,67 @@
-import React from 'react'
+import React, { useEffect, useRef } from "react";
+import Image from "next/image";
+
+import { portText } from "../constants";
+import { gsap } from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 const Port = () => {
-  return (
-    <div>Port</div>
-  )
+    const horizontalRef = useRef(null);
+    const sectionsRef = useRef([]);
+
+    useEffect(() => {
+        gsap.registerPlugin(ScrollTrigger);
+    
+        const horizontal = horizontalRef.current;
+        const sections = sectionsRef.current;
+    
+        let scrollTween = gsap.to(sections, {
+            xPercent: -120 * (sections.length - 1),
+            ease: "none",
+            scrollTrigger: {
+                trigger: horizontal,
+                start: "top 56px",
+                end: () => "+=" + horizontal.offsetWidth,
+                pin: true,
+                scrub: 1,
+                invalidateOnRefresh: true,
+                anticipatePin: 1,
+            },
+        });
+    
+        return () => {
+            scrollTween.kill();
+        };
+    }, []);
+
+    return (
+        <section id="port" ref={horizontalRef}>
+            <div className="port__inner">
+                <h2 className="port__title">
+                    portfolio <em>포폴 작업물</em>
+                </h2>
+                <div className="port__wrap">
+                    {portText.map((port, key) => (
+                        <article  
+                            className={`port__item p${key + 1}`} 
+                            key={key} 
+                            ref={(el) => (sectionsRef.current[key] = el)}
+                        >
+                            <span className="num">{port.num}.</span>
+                            <div className="img" rel="noreferrer">
+                                <Image src={port.img} alt={port.title} width={420} height={262} />
+                            </div>
+                            <h3 className="title">{port.title}</h3>
+                            <p className="desc">{port.desc}</p>
+                             {/*JSX 주석
+                            <a href={port.view} target="_blank" className="site" rel="noreferrer">사이트 보기</a>
+                            */}
+                        </article>
+                    ))}
+                </div>
+            </div>
+        </section>
+    )
 }
 
-export default Port
+export default Port;
