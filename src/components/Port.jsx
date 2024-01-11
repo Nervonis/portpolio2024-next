@@ -53,6 +53,8 @@ const Port = () => {
                             </div>
                             <h3 className="title">{port.title}</h3>
                             <p className="desc">{port.desc}</p>
+                            <p></p>
+                            <p className="desc">사용 기술 : {port.useStack}</p>
                              {/*JSX 주석
                             <a href={port.view} target="_blank" className="site" rel="noreferrer">사이트 보기</a>
                             */}
