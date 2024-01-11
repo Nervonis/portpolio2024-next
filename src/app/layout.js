@@ -1,3 +1,5 @@
+import "@/assets/scss/style.scss"
+
 export const metadata = {
   title: '포트폴리오 Next.js',
   description: '개발자 안병언의 포트폴리오 사이트',
@@ -11,4 +13,4 @@ export default function RootLayout({ children }) {
       <body>{children}</body>
     </html>
   )
-}
+};
