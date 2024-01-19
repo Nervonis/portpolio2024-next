@@ -172,6 +172,7 @@ export const portText = [
         code: "/",
         view: "https://theporterzone.com/mro",
         name: "더포터존 이커머스 서비스 개발",
+        useStack: "java, kotlin, docker, k8s, GitLab, msa, Redis, kafka, flux, reactive programming, MongoDB, MySQL, PostgreSQL, Jenkins, GitLab"
     },
 ];
 
