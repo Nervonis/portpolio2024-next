@@ -101,6 +101,17 @@ export const siteText = [
             "use stack : java, kotlin, docker, k8s, GitLab, msa, Redis, kafka, flux, reactive programming",
         ],
     },
+    {
+        text: ["소싱루트 B2B 이커머스 백엔드구축", "백엔드 / AWS / 인프라 구축 등 전반적인 모든 부분에서의 총괄 및 책임", "MySQL, Redis 등의 데이터베이스 구축", "메일 서버, CI/CD, AWS 등의 인프라 구축과 관리 담당"],
+        title: "씨케이브릿지㈜ 소싱루트사업부 개발팀",
+        code: "https://github.com/webstoryboy/port2023-next",
+        view: "https://port2023-next.netlify.app",
+        info: [
+            "BACK-END",
+            "month of work experience : continued",
+            "use stack : java, kotlin, docker, Github, msa, Redis, MySQL, AWS, Github Action, r2dbc, webclient",
+        ]
+    }
 ];
 
 export const portText = [
@@ -172,7 +183,17 @@ export const portText = [
         code: "/",
         view: "https://theporterzone.com/mro",
         name: "더포터존 이커머스 서비스 개발",
-        useStack: "java, kotlin, docker, k8s, GitLab, msa, Redis, kafka, flux, reactive programming, MongoDB, MySQL, PostgreSQL, Jenkins, GitLab"
+        useStack: "java, kotlin, docker, k8s, GitLab, msa, Redis, kafka, flux, reactive programming, MongoDB, MySQL, PostgreSQL, Jenkins"
+    },
+    {
+        num: "08",
+        title: "소싱루트 B2B 이커머스 개발",
+        desc: "https://sourcingroot.com",
+        img: port08,
+        code: "/",
+        desc: "https://sourcingroot.com",
+        title: "소싱루트 B2B 이커머스 개발",
+        useStack: "java, kotlin, docker, Github, msa, Redis, kafka, flux, reactive programming, MySQL, AWS, Github Action, r2dbc, webclient"
     },
 ];
 
